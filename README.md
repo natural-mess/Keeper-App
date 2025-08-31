@@ -9,6 +9,8 @@ A simple note-taking web application built with React and Vite, inspired by Goog
 - Responsive and modern UI using Material UI
 - Styled with custom CSS
 
+![Keeper App demo](demo/keeper-demo.gif)
+
 ## Project Structure
 
 ```
